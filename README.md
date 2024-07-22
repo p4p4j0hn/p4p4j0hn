@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Schmidt====================================================================================================================================Full-Stack Developer--------------------I am a full stack developer with a passion for Linux and free software.* 🌍  I'm based in Campbell River, British Columbia* 🖥️  See my portfolio at [p4p4j0hn](http://p4p4j0hn.github.io)* ✉️  You can contact me at [john@schmidthaus.rocks](mailto:john@schmidthaus.rocks)* 🚀  I'm currently working on [the Face Recognition Brain](http://github.com/p4p4j0hn/face-recognition-brain)* 🧠  I'm learning React and Node.js* 🤝  I'm open to collaborating on anything FOSS* ⚡  Nixos
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Schmidt
+====================================================================================================================================
+Full-Stack Developer
+--------------------
+I am a full stack developer with a passion for Linux and free software.* 🌍  I'm based in Campbell River, British Columbia* 🖥️  See my portfolio at [p4p4j0hn](http://p4p4j0hn.github.io)* ✉️  You can contact me at [john@schmidthaus.rocks](mailto:john@schmidthaus.rocks)* 🚀  I'm currently working on [the Face Recognition Brain](http://github.com/p4p4j0hn/face-recognition-brain)* 🧠  I'm learning React and Node.js* 🤝  I'm open to collaborating on anything FOSS* ⚡  Nixos
 
 ### Skills
 
